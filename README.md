@@ -7,7 +7,7 @@ code editor running on your computer, for  development of p5.js projects in the 
 
 ## Instructions
 
-1. On <https://github.com/MaxFishman/P5-Website-Template>, click Code, and then Download
+1. On https://github.com/pinzonluisa/p5Js_LocalTemplate, click Code, and then Download
    Zip
 2. If necessary, unzip the zip file. (Your computer may do this automatically.)
 3. Rename the folder "p5-template" to your project name.
